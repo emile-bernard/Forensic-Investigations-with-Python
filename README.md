@@ -4,6 +4,8 @@
 
 Forensic Investigations with Python. Examples taken from the Violent Python book.
 
+![Snake](Snake.gif?raw=true "Snake")
+
 ## Setup
 
 
